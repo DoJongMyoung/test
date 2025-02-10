@@ -1,7 +1,9 @@
 init
 status
 log
-config (이메일, 유저명 등록. 1회만 하면됨)
-add
+config (이메일, 유저명 등록. 1회만 하면됨) , config --list
+add : 스테이지 영역을 추가하는 역할	 (총알 장전)
 commit (-m)
 checkout
+push (-u origin "branch 이름") : 로컬에 있는 걸 github로 업로드 할 때 사용. 
+config --list : 설정된 파일 목록을 볼 수 있음.
