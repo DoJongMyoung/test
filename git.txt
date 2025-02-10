@@ -9,3 +9,6 @@ push (-u origin "branch 이름") : 로컬에 있는 걸 github로 업로드 할 
 config --list : 설정된 파일 목록을 볼 수 있음.
 fetch
 pull
+
+
+jongjong
